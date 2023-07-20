@@ -1,0 +1,29 @@
+div {
+    width: 150px;
+    height: 150px;
+}
+
+.violet {
+    position: absolute;
+}
+
+.green {
+    position: absolute;
+}
+
+.coral {
+    background-color: rgb(229, 136, 136);
+}
+
+.violet {
+    background-color: rgb(116, 116, 188);
+    top: 75px;
+    left: 75px;
+    z-index: 1;
+}
+
+.green {
+    background-color: rgb(136, 244, 136);
+    top: 150px;
+    left: 150px;
+}
